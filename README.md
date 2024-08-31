@@ -1,5 +1,7 @@
 # Target-Est-gio-Ribeir-o-Preto
 
+##Observação: as atividades de programação estão localizadas em src/teste
+
 4) Descubra a lógica e complete o próximo elemento:
 a) 1, 3, 5, 7, (9) - apenas números ímpares
 b) 2, 4, 8, 16, 32, 64, (128) - sempre o dobro do número que antecede
